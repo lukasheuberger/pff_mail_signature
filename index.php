@@ -124,7 +124,7 @@ else: ?><!DOCTYPE html>
                 </button>
                 <a class="navbar-brand" href="#">
                 <!-- <img src="assets/Logo_Pfadi_TG_CMYK.png" height="40" alt="PTG Logo"/> -->
-                PFF Signature Generator
+                PFF 23 Signature Generator
                 </a>
             </div>
         </div>
@@ -132,7 +132,7 @@ else: ?><!DOCTYPE html>
     <!-- Begin page content -->
     <div class="container">
         <div class="page-header">
-            <h1 class="main-header"> PFF Signature Generator</h1>
+            <h1 class="main-header"> PFF 23 Signature Generator</h1>
         </div>
         <form role="form" method="post" target="preview" id="form">
             <div class="row">
